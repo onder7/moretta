@@ -43,9 +43,10 @@ export function ProductFinder() {
   const { data: filterData, isLoading: filterLoading } = useQuery({
     queryKey: ['filter-options', selectedCategory],
     queryFn: async () => {
-      return selectedCategory 
-        ? await productApi.filterOptions(selectedCategory)
-        : await productApi.filterOptions('');
+      if (selectedCategory) {
+        return await productApi.filterOptions(selectedCategory);
+      }
+      return { data: { data: { attributes: [], brands: [], priceRange: { min: 0, max: 0 } } } };
     },
     enabled: !!selectedCategory,
     staleTime: 1000 * 60 * 10,
