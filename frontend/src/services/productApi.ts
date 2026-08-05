@@ -58,7 +58,7 @@ export const productApi = {
     return api.get<ProductListResponse>(`/products?${params}`);
   },
 
-  filterOptions: (categorySlug?: string) => {
+  filterOptions: (categorySlug?: string | '') => {
     const params = categorySlug ? `?category=${categorySlug}` : '';
     return api.get<{ success: boolean; data: FilterOptions }>(`/products/filter-options${params}`);
   },
