@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0f172a" />
+
+    <!-- Tema (gece/gündüz) — flash önlemek için React'ten önce uygula -->
+    <script>
+      try {
+        var t = JSON.parse(localStorage.getItem('theme') || '{}');
+        if (t && t.state && t.state.theme === 'dark') document.documentElement.classList.add('dark');
+      } catch (e) {}
+    </script>
+
+    <!-- Default SEO — overridden per-page by react-helmet-async -->
+    <title>Online Mağaza</title>
+    <meta name="description" content="Online alışveriş — güvenli ödeme ve hızlı kargo." />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph defaults -->
+    <meta property="og:site_name" content="Online Mağaza" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="tr_TR" />
+
+    <!-- Twitter Card defaults -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Google Sign-In SDK -->
+    <script async defer src="https://accounts.google.com/gsi/client"></script>
+
+    <!-- Facebook SDK -->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v18.0" nonce="YOUR_NONCE_HERE"></script>
+
+    <!-- Instagram (via Facebook) -->
+    <!-- Uses same FB SDK as above -->
+    <script type="module" src="/src/main.tsx"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

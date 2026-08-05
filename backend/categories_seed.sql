@@ -1,0 +1,43 @@
+-- ============================================================
+-- Nefesol Shop — Kategori Seed (yerel sistemden alındı)
+-- 5 üst kategori + 20 alt kategori = 25 kayıt
+-- FK sırası korunmuştur: önce üst kategoriler, sonra alt kategoriler.
+-- Tekrar çalıştırmak güvenlidir (ON CONFLICT (id) DO NOTHING).
+-- Kullanım: psql -U ecom -d ecommerce -f categories_seed.sql
+-- ============================================================
+
+BEGIN;
+
+-- ── Üst Kategoriler (parent_id = NULL) ──────────────────────
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2hpkv000d6oic07xnepmo', NULL, 'Ev, Yaşam & Tekstil', 'ev-yasam-tekstil', 'Ev, Yaşam & Tekstil', '/uploads/products/1781519159788-nfcnkcxnaxq.png', 20, 't', 't', '2026-06-14 17:37:42.848') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2jfvg000k6oich6t0aax3', NULL, 'Elektronik & Teknoloji', 'elektronik-teknoloji', 'Elektronik & Teknoloji', '/uploads/products/1781519180674-1pcohso4eie.png', 21, 't', 't', '2026-06-14 17:39:03.58') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe29yhk00006oicdpg4en5g', NULL, 'Giyim & Moda (Fashion)', 'giyim-moda-fashion', 'Giyim & Moda (Fashion)', '/uploads/products/1781519186602-7xt0ooo3f2s.png', 22, 't', 't', '2026-06-14 17:31:41.143') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2kp8s000t6oicv2fp8pgo', NULL, 'Kozmetik & Kişisel Bakım', 'kozmetik-kisisel-bakim', 'Kozmetik & Kişisel Bakım', '/uploads/products/1781519192978-0wa30uwqjs7c.png', 23, 't', 't', '2026-06-14 17:40:02.38') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2lusw00126oicsfjfxd1x', NULL, 'Spor & Açık Hava', 'spor-acik-hava', 'Spor & Açık Hava', NULL, 24, 't', 't', '2026-06-14 17:40:56.24') ON CONFLICT (id) DO NOTHING;
+
+-- ── Alt Kategoriler ─────────────────────────────────────────
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2bza2000c6oic5t8r2vcd', 'cmqe29yhk00006oicdpg4en5g', 'Etek', 'etek', NULL, NULL, 0, 't', 't', '2026-06-14 17:33:15.483') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2anoc00026oictbewodnj', 'cmqe29yhk00006oicdpg4en5g', 'Elbise', 'elbise', 'Elbise', NULL, 1, 't', 't', '2026-06-14 17:32:13.788') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2b6yh00046oicfr5oef9k', 'cmqe29yhk00006oicdpg4en5g', 'Tişört', 'tisort', 'Tişört', NULL, 2, 't', 't', '2026-06-14 17:32:38.778') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2bdau00066oicwl8ual86', 'cmqe29yhk00006oicdpg4en5g', 'Gömlek', 'gomlek', NULL, NULL, 3, 't', 't', '2026-06-14 17:32:46.998') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2blaq00086oics08ydvkv', 'cmqe29yhk00006oicdpg4en5g', 'Ceket & Mont', 'ceket-mont', NULL, NULL, 4, 't', 't', '2026-06-14 17:32:57.362') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2br0u000a6oich2oub56l', 'cmqe29yhk00006oicdpg4en5g', 'Pantolon', 'pantolon', NULL, NULL, 5, 't', 't', '2026-06-14 17:33:04.782') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2ib4f000f6oic6julvfej', 'cmqe2hpkv000d6oic07xnepmo', 'Ev Tekstili', 'ev-tekstili', NULL, '/uploads/products/1781519357080-x5y1huwdwe.jpg', 6, 't', 't', '2026-06-14 17:38:10.767') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2iuo6000j6oicqyq5qan5', 'cmqe2hpkv000d6oic07xnepmo', 'Mobilya', 'mobilya', NULL, NULL, 7, 't', 't', '2026-06-14 17:38:36.103') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2inkb000h6oicr1iyfx4e', 'cmqe2hpkv000d6oic07xnepmo', 'Ev Dekorasyonu', 'ev-dekorasyonu', NULL, NULL, 8, 't', 't', '2026-06-14 17:38:26.891') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2jo6h000m6oicq9znz8jl', 'cmqe2jfvg000k6oich6t0aax3', 'Telefon & Aksesuarlar', 'telefon-aksesuarlar', NULL, NULL, 9, 't', 't', '2026-06-14 17:39:14.345') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2kgmo000s6oicnzvg8qio', 'cmqe2jfvg000k6oich6t0aax3', 'Küçük Ev Aletleri', 'kucuk-ev-aletleri', 'Küçük Ev Aletleri', NULL, 10, 't', 't', '2026-06-14 17:39:51.216') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2k644000q6oiciultld84', 'cmqe2jfvg000k6oich6t0aax3', 'Televizyon & Ses Sistemleri', 'televizyon-ses-sistemleri', NULL, NULL, 11, 't', 't', '2026-06-14 17:39:37.588') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2jxpi000o6oicxr7zpkuo', 'cmqe2jfvg000k6oich6t0aax3', 'Bilgisayar & Tablet', 'bilgisayar-tablet', 'Bilgisayar & Tablet', NULL, 12, 't', 't', '2026-06-14 17:39:26.694') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2l4d0000x6oiceif97fyp', 'cmqe2kp8s000t6oicv2fp8pgo', 'Makyaj', 'makyaj', 'Makyaj', NULL, 13, 't', 't', '2026-06-14 17:40:21.972') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2kybg000v6oicp1mvrak3', 'cmqe2kp8s000t6oicv2fp8pgo', 'Cilt Bakımı', 'cilt-bakimi', NULL, NULL, 14, 't', 't', '2026-06-14 17:40:14.141') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2leey000z6oicztd6222d', 'cmqe2kp8s000t6oicv2fp8pgo', 'Saç Bakımı', 'sac-bakimi', 'Saç Bakımı', NULL, 15, 't', 't', '2026-06-14 17:40:35.001') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2ln2200116oicywurvnyf', 'cmqe2kp8s000t6oicv2fp8pgo', 'Parfüm & Deodorant', 'parfum-deodorant', NULL, NULL, 16, 't', 't', '2026-06-14 17:40:46.202') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2mfjx00146oicifvmk63u', 'cmqe2lusw00126oicsfjfxd1x', 'Spor Giyim & Ayakkabı', 'spor-giyim-ayakkabi', 'Spor Giyim & Ayakkabı', NULL, 17, 't', 't', '2026-06-14 17:41:23.133') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2muug00166oicbhq65s3i', 'cmqe2lusw00126oicsfjfxd1x', 'Spor Branşları:', 'spor-branslari', NULL, NULL, 18, 't', 't', '2026-06-14 17:41:42.952') ON CONFLICT (id) DO NOTHING;
+INSERT INTO categories (id, parent_id, name, slug, description, image_url, sort_order, is_active, show_in_menu, created_at) VALUES ('cmqe2n5of00186oicehnj4pc4', 'cmqe2muug00166oicbhq65s3i', 'Fitness & Pilates', 'fitness-pilates', NULL, NULL, 19, 't', 't', '2026-06-14 17:41:56.991') ON CONFLICT (id) DO NOTHING;
+
+COMMIT;
+
+-- Doğrulama:
+-- SELECT name, slug, parent_id FROM categories ORDER BY sort_order;

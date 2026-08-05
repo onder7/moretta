@@ -1,0 +1,3096 @@
+{
+  "categories": [
+    {
+      "id": "cmpis13va0007r2051t91asgj",
+      "name": "Nevresim Takımları",
+      "slug": "nevresim-takimlari"
+    },
+    {
+      "id": "cmpis13ve0008r205yeskn4u",
+      "name": "Çeyizlik Ürünler",
+      "slug": "ceyizlik-urunler"
+    },
+    {
+      "id": "cmpis13vh0009r2052v287auc",
+      "name": "Yatak Örtüleri",
+      "slug": "yatak-ortuleri"
+    },
+    {
+      "id": "cmpis13vj000ar2052k6o0dsb",
+      "name": "Pike Takımları",
+      "slug": "pike-takimlari"
+    },
+    {
+      "id": "cmpis13v1000br205j1r8rawk",
+      "name": "Banyo",
+      "slug": "banyo"
+    },
+    {
+      "id": "cmpis13vn000cr205mvhti0zk",
+      "name": "Masa Örtüleri",
+      "slug": "masa-ortuleri"
+    },
+    {
+      "id": "cmpis13vp000dr2051vc1x0ra",
+      "name": "Battaniye",
+      "slug": "battaniye"
+    },
+    {
+      "id": "cmpis13vr000er205hmuhsqc7",
+      "name": "Çarşaf & Alez",
+      "slug": "carsaf-alez"
+    },
+    {
+      "id": "cmpis13vt000fr205cxu9sc95",
+      "name": "Halı",
+      "slug": "hali"
+    },
+    {
+      "id": "cmpis13vv000gr205ei34fzs2",
+      "name": "Yastık & Yorgan",
+      "slug": "yastik-yorgan"
+    }
+  ],
+  "products": [
+    {
+      "id": "cmpis13prod0001r206x0new",
+      "categoryId": "cmpis13va0007r2051t91asgj",
+      "brandId": "cmpis13brand001template",
+      "name": "Pamuk Saten Çift Kişilik Nevresim Takımı",
+      "slug": "pamuk-saten-cift-kisilik-nevresim-takimi",
+      "description": "Saten şıklığı ve pamuk konforu bir arada. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0001-A",
+          "color": "Krem / Beyaz",
+          "price": 895.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0001-B",
+          "color": "Pudra / Gri",
+          "price": 895.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/pamuk-saten-cift-kisilik-nevresim-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/pamuk-saten-cift-kisilik-nevresim-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "pamuk"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0002r206x1new",
+      "categoryId": "cmpis13va0007r2051t91asgj",
+      "brandId": "cmpis13brand001template",
+      "name": "Ranforce Tek Kişilik Çocuk Nevresim Takımı",
+      "slug": "ranforce-tek-kisilik-cocuk-nevresim-takimi",
+      "description": "%100 Pamuk ranforce kumaştan üretilmiş çocuk odası nevresimi. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0002-A",
+          "color": "Krem / Beyaz",
+          "price": 940.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0002-B",
+          "color": "Pudra / Gri",
+          "price": 940.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/ranforce-tek-kisilik-cocuk-nevresim-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/ranforce-tek-kisilik-cocuk-nevresim-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "ranforce"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0003r206x2new",
+      "categoryId": "cmpis13va0007r2051t91asgj",
+      "brandId": "cmpis13brand001template",
+      "name": "Zarif Dantelli Gelin Nevresim Takımı",
+      "slug": "zarif-dantelli-gelin-nevresim-takimi",
+      "description": "Özel günler ve çeyiziniz için fransız danteli işlemeli özel tasarım. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0003-A",
+          "color": "Krem / Beyaz",
+          "price": 985.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0003-B",
+          "color": "Pudra / Gri",
+          "price": 985.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/zarif-dantelli-gelin-nevresim-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/zarif-dantelli-gelin-nevresim-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "zarif"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0004r206x3new",
+      "categoryId": "cmpis13va0007r2051t91asgj",
+      "brandId": "cmpis13brand001template",
+      "name": "Modern Geometrik Desenli Çift Kişilik Nevresim",
+      "slug": "modern-geometrik-desenli-cift-kisilik-nevresim",
+      "description": "Yatak odanıza modern bir hava katacak geometrik çizgiler. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0004-A",
+          "color": "Krem / Beyaz",
+          "price": 1030.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0004-B",
+          "color": "Pudra / Gri",
+          "price": 1030.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/modern-geometrik-desenli-cift-kisilik-nevresim-1.jpg",
+        "https://images.ceyizdiyari.com/mock/modern-geometrik-desenli-cift-kisilik-nevresim-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "modern"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0005r206x4new",
+      "categoryId": "cmpis13va0007r2051t91asgj",
+      "brandId": "cmpis13brand001template",
+      "name": "Premium Çizgili Otel Konsepti Nevresim Seti",
+      "slug": "premium-cizgili-otel-konsepti-nevresim-seti",
+      "description": "Yüksek dokuma sıklığına sahip şerit çizgili lüks nevresim takımı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0005-A",
+          "color": "Krem / Beyaz",
+          "price": 1075.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0005-B",
+          "color": "Pudra / Gri",
+          "price": 1075.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/premium-cizgili-otel-konsepti-nevresim-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/premium-cizgili-otel-konsepti-nevresim-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "premium"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0006r206x5new",
+      "categoryId": "cmpis13va0007r2051t91asgj",
+      "brandId": "cmpis13brand001template",
+      "name": "Flanel Kışlık Çift Kişilik Nevresim Takımı",
+      "slug": "flanel-kislik-cift-kisilik-nevresim-takimi",
+      "description": "Kış aylarında yumuşacık dokusuyla sıcak tutan %100 pamuk pazen/flanel nevresim. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0006-A",
+          "color": "Krem / Beyaz",
+          "price": 1120.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0006-B",
+          "color": "Pudra / Gri",
+          "price": 1120.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/flanel-kislik-cift-kisilik-nevresim-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/flanel-kislik-cift-kisilik-nevresim-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "flanel"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0007r206x6new",
+      "categoryId": "cmpis13va0007r2051t91asgj",
+      "brandId": "cmpis13brand001template",
+      "name": "3D Dijital Baskılı Genç Nevresim Takımı",
+      "slug": "3d-dijital-baskili-genc-nevresim-takimi",
+      "description": "Yüksek çözünürlüklü dijital baskı teknolojisiyle üretilmiş solmaz canlı renkler. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0007-A",
+          "color": "Krem / Beyaz",
+          "price": 1165.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0007-B",
+          "color": "Pudra / Gri",
+          "price": 1165.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/3d-dijital-baskili-genc-nevresim-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/3d-dijital-baskili-genc-nevresim-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "3d"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0008r206x7new",
+      "categoryId": "cmpis13va0007r2051t91asgj",
+      "brandId": "cmpis13brand001template",
+      "name": "Eko Pamuk Günlük Çift Kişilik Nevresim",
+      "slug": "eko-pamuk-gunluk-cift-kisilik-nevresim",
+      "description": "Kolay ütülenebilir, günlük yıkamaya uygun ekonomik ve kaliteli nevresim seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0008-A",
+          "color": "Krem / Beyaz",
+          "price": 1210.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0008-B",
+          "color": "Pudra / Gri",
+          "price": 1210.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/eko-pamuk-gunluk-cift-kisilik-nevresim-1.jpg",
+        "https://images.ceyizdiyari.com/mock/eko-pamuk-gunluk-cift-kisilik-nevresim-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "eko"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0009r206x0new",
+      "categoryId": "cmpis13ve0008r205yeskn4u",
+      "brandId": "cmpis13brand001template",
+      "name": "Gelin Bohçası Lüks Çeyiz Seti 8 Parça",
+      "slug": "gelin-bohcasi-luks-ceyiz-seti-8-parca",
+      "description": "Söz ve nişan merasimleri için eksiksiz lüks gelin sepeti seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0009-A",
+          "color": "Krem / Beyaz",
+          "price": 1255.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0009-B",
+          "color": "Pudra / Gri",
+          "price": 1255.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/gelin-bohcasi-luks-ceyiz-seti-8-parca-1.jpg",
+        "https://images.ceyizdiyari.com/mock/gelin-bohcasi-luks-ceyiz-seti-8-parca-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "gelin"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0010r206x1new",
+      "categoryId": "cmpis13ve0008r205yeskn4u",
+      "brandId": "cmpis13brand001template",
+      "name": "Fransız Dantelli Kadife Sandık Seti",
+      "slug": "fransiz-dantelli-kadife-sandik-seti",
+      "description": "Büyük ve küçük boy iki adet kadife kaplama çeyiz sandığı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0010-A",
+          "color": "Krem / Beyaz",
+          "price": 1300.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0010-B",
+          "color": "Pudra / Gri",
+          "price": 1300.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/fransiz-dantelli-kadife-sandik-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/fransiz-dantelli-kadife-sandik-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "fransiz"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0011r206x2new",
+      "categoryId": "cmpis13ve0008r205yeskn4u",
+      "brandId": "cmpis13brand001template",
+      "name": "Gelin Terliği ve Kesesi Özel Seti",
+      "slug": "gelin-terligi-ve-kesesi-ozel-seti",
+      "description": "Lohusa ve gelin kullanımına uygun incili el emeği terlik seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0011-A",
+          "color": "Krem / Beyaz",
+          "price": 1345.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0011-B",
+          "color": "Pudra / Gri",
+          "price": 1345.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/gelin-terligi-ve-kesesi-ozel-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/gelin-terligi-ve-kesesi-ozel-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "gelin"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0012r206x3new",
+      "categoryId": "cmpis13ve0008r205yeskn4u",
+      "brandId": "cmpis13brand001template",
+      "name": "Saten Gecelik ve Sabahlık Çeyiz Paketi",
+      "slug": "saten-gecelik-ve-sabahlik-ceyiz-paketi",
+      "description": "Çeyizin vazgeçilmezi 3 parçadan oluşan şık saten ev giyim seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0012-A",
+          "color": "Krem / Beyaz",
+          "price": 1390.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0012-B",
+          "color": "Pudra / Gri",
+          "price": 1390.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/saten-gecelik-ve-sabahlik-ceyiz-paketi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/saten-gecelik-ve-sabahlik-ceyiz-paketi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "saten"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0013r206x4new",
+      "categoryId": "cmpis13ve0008r205yeskn4u",
+      "brandId": "cmpis13brand001template",
+      "name": "Seccade ve Tesbih Çeyizlik Takım",
+      "slug": "seccade-ve-tesbih-ceyizlik-takim",
+      "description": "Lüks kadife kumaş üzerine sim işlemeli namazlık ve takım tesbih. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0013-A",
+          "color": "Krem / Beyaz",
+          "price": 1435.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0013-B",
+          "color": "Pudra / Gri",
+          "price": 1435.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/seccade-ve-tesbih-ceyizlik-takim-1.jpg",
+        "https://images.ceyizdiyari.com/mock/seccade-ve-tesbih-ceyizlik-takim-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "seccade"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0014r206x5new",
+      "categoryId": "cmpis13ve0008r205yeskn4u",
+      "brandId": "cmpis13brand001template",
+      "name": "Dantelli Nişan Makas ve Tepsi Seti",
+      "slug": "dantelli-nisan-makas-ve-tepsi-seti",
+      "description": "Yüzük merasimleriniz için aynalı lüks gold kaplama nişan tepsisi konsepti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0014-A",
+          "color": "Krem / Beyaz",
+          "price": 1480.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0014-B",
+          "color": "Pudra / Gri",
+          "price": 1480.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/dantelli-nisan-makas-ve-tepsi-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/dantelli-nisan-makas-ve-tepsi-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "dantelli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0015r206x6new",
+      "categoryId": "cmpis13ve0008r205yeskn4u",
+      "brandId": "cmpis13brand001template",
+      "name": "Kadife Süslemeli Çeyizlik Kur'an Kabı",
+      "slug": "kadife-suslemeli-ceyizlik-kuran-kabi",
+      "description": "Zarif inciler ve fransız danteli ile süslenmiş muhafaza kutulu özel kap. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0015-A",
+          "color": "Krem / Beyaz",
+          "price": 1525.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0015-B",
+          "color": "Pudra / Gri",
+          "price": 1525.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/kadife-suslemeli-ceyizlik-kuran-kabi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/kadife-suslemeli-ceyizlik-kuran-kabi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "kadife"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0016r206x7new",
+      "categoryId": "cmpis13ve0008r205yeskn4u",
+      "brandId": "cmpis13brand001template",
+      "name": "Gelin Hamamı Takımı Lüks Set",
+      "slug": "gelin-hamami-takimi-luks-set",
+      "description": "Gelin hamamı organizasyonları için özel tasarım işlemeli havlu ve aksesuarlar. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0016-A",
+          "color": "Krem / Beyaz",
+          "price": 1570.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0016-B",
+          "color": "Pudra / Gri",
+          "price": 1570.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/gelin-hamami-takimi-luks-set-1.jpg",
+        "https://images.ceyizdiyari.com/mock/gelin-hamami-takimi-luks-set-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "gelin"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0017r206x0new",
+      "categoryId": "cmpis13vh0009r2052v287auc",
+      "brandId": "cmpis13brand001template",
+      "name": "Kapitoneli Çift Kişilik Lüks Yatak Örtüsü",
+      "slug": "kapitoneli-cift-kisilik-luks-yatak-ortusu",
+      "description": "Günlük ve şık kullanım için elyaf dolgulu mikrofiber yatak örtüsü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0017-A",
+          "color": "Krem / Beyaz",
+          "price": 1615.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0017-B",
+          "color": "Pudra / Gri",
+          "price": 1615.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/kapitoneli-cift-kisilik-luks-yatak-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/kapitoneli-cift-kisilik-luks-yatak-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "kapitoneli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0018r206x1new",
+      "categoryId": "cmpis13vh0009r2052v287auc",
+      "brandId": "cmpis13brand001template",
+      "name": "Jakarlı Şönil Çeyizlik Yatak Örtüsü",
+      "slug": "jakarli-sonil-ceyizlik-yatak-ortusu",
+      "description": "Ağır dökümlü yapısı ve kabartma desenleriyle yatak odanızın yıldızı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0018-A",
+          "color": "Krem / Beyaz",
+          "price": 1660.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0018-B",
+          "color": "Pudra / Gri",
+          "price": 1660.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/jakarli-sonil-ceyizlik-yatak-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/jakarli-sonil-ceyizlik-yatak-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "jakarli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0019r206x2new",
+      "categoryId": "cmpis13vh0009r2052v287auc",
+      "brandId": "cmpis13brand001template",
+      "name": "Fransız Dantelli Güpürlü Yatak Örtüsü Seti",
+      "slug": "fransiz-dantelli-gupurlu-yatak-ortusu-seti",
+      "description": "Etekleri komple fransız danteli ile süslenmiş özel tasarım. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0019-A",
+          "color": "Krem / Beyaz",
+          "price": 1705.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0019-B",
+          "color": "Pudra / Gri",
+          "price": 1705.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/fransiz-dantelli-gupurlu-yatak-ortusu-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/fransiz-dantelli-gupurlu-yatak-ortusu-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "fransiz"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0020r206x3new",
+      "categoryId": "cmpis13vh0009r2052v287auc",
+      "brandId": "cmpis13brand001template",
+      "name": "Yazlık İnce Örme Yatak Örtüsü",
+      "slug": "yazlik-i̇nce-orme-yatak-ortusu",
+      "description": "Sıcak havalarda hafiflik sunan, tüylenme yapmayan yatak örtüsü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0020-A",
+          "color": "Krem / Beyaz",
+          "price": 1750.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0020-B",
+          "color": "Pudra / Gri",
+          "price": 1750.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/yazlik-i̇nce-orme-yatak-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/yazlik-i̇nce-orme-yatak-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "yazlik"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0021r206x4new",
+      "categoryId": "cmpis13vh0009r2052v287auc",
+      "brandId": "cmpis13brand001template",
+      "name": "Tek Kişilik Spor Kapitoneli Yatak Örtüsü",
+      "slug": "tek-kisilik-spor-kapitoneli-yatak-ortusu",
+      "description": "Genç ve çocuk odalarına uygun dinamik renklerde yatak örtüsü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0021-A",
+          "color": "Krem / Beyaz",
+          "price": 1795.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0021-B",
+          "color": "Pudra / Gri",
+          "price": 1795.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/tek-kisilik-spor-kapitoneli-yatak-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/tek-kisilik-spor-kapitoneli-yatak-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "tek"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0022r206x5new",
+      "categoryId": "cmpis13vh0009r2052v287auc",
+      "brandId": "cmpis13brand001template",
+      "name": "Brokar Saray Konsepti Ağır Yatak Örtüsü",
+      "slug": "brokar-saray-konsepti-agir-yatak-ortusu",
+      "description": "Osmanlı motifleriyle bezenmiş, çeyizlerin en göz alıcı parça lüks örtüsü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0022-A",
+          "color": "Krem / Beyaz",
+          "price": 1840.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0022-B",
+          "color": "Pudra / Gri",
+          "price": 1840.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/brokar-saray-konsepti-agir-yatak-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/brokar-saray-konsepti-agir-yatak-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "brokar"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0023r206x6new",
+      "categoryId": "cmpis13vh0009r2052v287auc",
+      "brandId": "cmpis13brand001template",
+      "name": "Yumuşak Dokulu Peluş Yatak Örtüsü",
+      "slug": "yumusak-dokulu-pelus-yatak-ortusu",
+      "description": "Kış sezonuna uygun oda dekorasyonunuzu ısıtacak suni kürk detaylı yatak örtüsü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0023-A",
+          "color": "Krem / Beyaz",
+          "price": 1885.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0023-B",
+          "color": "Pudra / Gri",
+          "price": 1885.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/yumusak-dokulu-pelus-yatak-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/yumusak-dokulu-pelus-yatak-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "yumusak"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0024r206x7new",
+      "categoryId": "cmpis13vh0009r2052v287auc",
+      "brandId": "cmpis13brand001template",
+      "name": "Bohem Pamuk Püsküllü Çift Kişilik Örtü",
+      "slug": "bohem-pamuk-puskullu-cift-kisilik-ortu",
+      "description": "Doğal tonlarda, püsküllü ve tamamen pamuk ipliğinden modern yatak örtüsü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0024-A",
+          "color": "Krem / Beyaz",
+          "price": 1930.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0024-B",
+          "color": "Pudra / Gri",
+          "price": 1930.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/bohem-pamuk-puskullu-cift-kisilik-ortu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/bohem-pamuk-puskullu-cift-kisilik-ortu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "bohem"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0025r206x0new",
+      "categoryId": "cmpis13vj000ar2052k6o0dsb",
+      "brandId": "cmpis13brand001template",
+      "name": "Dantelli 4 Parça Çift Kişilik Pike Takımı",
+      "slug": "dantelli-4-parca-cift-kisilik-pike-takimi",
+      "description": "%100 Pamuk pike kumaşı ve çarşafıyla baharlık şık set. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0025-A",
+          "color": "Krem / Beyaz",
+          "price": 1975.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0025-B",
+          "color": "Pudra / Gri",
+          "price": 1975.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/dantelli-4-parca-cift-kisilik-pike-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/dantelli-4-parca-cift-kisilik-pike-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "dantelli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0026r206x1new",
+      "categoryId": "cmpis13vj000ar2052k6o0dsb",
+      "brandId": "cmpis13brand001template",
+      "name": "Jakarlı Çift Kişilik Pamuk Pike",
+      "slug": "jakarli-cift-kisilik-pamuk-pike",
+      "description": "Kendinden desenli lüks dokumaya sahip yumuşacık pamuk pike. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0026-A",
+          "color": "Krem / Beyaz",
+          "price": 2020.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0026-B",
+          "color": "Pudra / Gri",
+          "price": 2020.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/jakarli-cift-kisilik-pamuk-pike-1.jpg",
+        "https://images.ceyizdiyari.com/mock/jakarli-cift-kisilik-pamuk-pike-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "jakarli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0027r206x2new",
+      "categoryId": "cmpis13vj000ar2052k6o0dsb",
+      "brandId": "cmpis13brand001template",
+      "name": "Tek Kişilik Çizgili Günlük Pike Takımı",
+      "slug": "tek-kisilik-cizgili-gunluk-pike-takimi",
+      "description": "Yaz aylarında ferah uyku sunan tek kişilik komple set. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0027-A",
+          "color": "Krem / Beyaz",
+          "price": 2065.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0027-B",
+          "color": "Pudra / Gri",
+          "price": 2065.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/tek-kisilik-cizgili-gunluk-pike-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/tek-kisilik-cizgili-gunluk-pike-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "tek"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0028r206x3new",
+      "categoryId": "cmpis13vj000ar2052k6o0dsb",
+      "brandId": "cmpis13brand001template",
+      "name": "Güpürlü Çeyizlik Premium Pike Seti",
+      "slug": "gupurlu-ceyizlik-premium-pike-seti",
+      "description": "Özel çeyiz sandıkları için tasarlanmış, ağır güpür işlemeli lüks pike. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0028-A",
+          "color": "Krem / Beyaz",
+          "price": 2110.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0028-B",
+          "color": "Pudra / Gri",
+          "price": 2110.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/gupurlu-ceyizlik-premium-pike-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/gupurlu-ceyizlik-premium-pike-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "gupurlu"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0029r206x4new",
+      "categoryId": "cmpis13vj000ar2052k6o0dsb",
+      "brandId": "cmpis13brand001template",
+      "name": "Püsküllü Bohem Tarz Soft Pike",
+      "slug": "puskullu-bohem-tarz-soft-pike",
+      "description": "Kenarları saçaklı ve püsküllü, modern yatak odası dekorasyonu için. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0029-A",
+          "color": "Krem / Beyaz",
+          "price": 2155.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0029-B",
+          "color": "Pudra / Gri",
+          "price": 2155.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/puskullu-bohem-tarz-soft-pike-1.jpg",
+        "https://images.ceyizdiyari.com/mock/puskullu-bohem-tarz-soft-pike-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "puskullu"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0030r206x5new",
+      "categoryId": "cmpis13vj000ar2052k6o0dsb",
+      "brandId": "cmpis13brand001template",
+      "name": "Waffle Dokuma Örme Çift Kişilik Pike",
+      "slug": "waffle-dokuma-orme-cift-kisilik-pike",
+      "description": "Son dönem trendi petek/waffle dokulu, yüksek emicilikte şık hafif pike. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0030-A",
+          "color": "Krem / Beyaz",
+          "price": 2200.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0030-B",
+          "color": "Pudra / Gri",
+          "price": 2200.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/waffle-dokuma-orme-cift-kisilik-pike-1.jpg",
+        "https://images.ceyizdiyari.com/mock/waffle-dokuma-orme-cift-kisilik-pike-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "waffle"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0031r206x6new",
+      "categoryId": "cmpis13vj000ar2052k6o0dsb",
+      "brandId": "cmpis13brand001template",
+      "name": "Yıldız Desenli Çocuk Pike Takımı",
+      "slug": "yildiz-desenli-cocuk-pike-takimi",
+      "description": "Çocuk odaları için özel üretilmiş, antialerjik kumaşlı pike seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0031-A",
+          "color": "Krem / Beyaz",
+          "price": 2245.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0031-B",
+          "color": "Pudra / Gri",
+          "price": 2245.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/yildiz-desenli-cocuk-pike-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/yildiz-desenli-cocuk-pike-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "yildiz"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0032r206x7new",
+      "categoryId": "cmpis13vj000ar2052k6o0dsb",
+      "brandId": "cmpis13brand001template",
+      "name": "Lüks Saten Şeritli Çeyizlik Pike",
+      "slug": "luks-saten-seritli-ceyizlik-pike",
+      "description": "Kenarları saten biye ve fransız danteliyle harmanlanmış tasarım pike. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0032-A",
+          "color": "Krem / Beyaz",
+          "price": 2290.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0032-B",
+          "color": "Pudra / Gri",
+          "price": 2290.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/luks-saten-seritli-ceyizlik-pike-1.jpg",
+        "https://images.ceyizdiyari.com/mock/luks-saten-seritli-ceyizlik-pike-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "luks"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0033r206x0new",
+      "categoryId": "cmpis13v1000br205j1r8rawk",
+      "brandId": "cmpis13brand001template",
+      "name": "Aile Bornoz Seti 4 Parça Bambu",
+      "slug": "aile-bornoz-seti-4-parca-bambu",
+      "description": "Yüksek su emiciliğine sahip bambu iplikten kadın-erkek bornoz seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0033-A",
+          "color": "Krem / Beyaz",
+          "price": 2335.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0033-B",
+          "color": "Pudra / Gri",
+          "price": 2335.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/aile-bornoz-seti-4-parca-bambu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/aile-bornoz-seti-4-parca-bambu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "aile"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0034r206x1new",
+      "categoryId": "cmpis13v1000br205j1r8rawk",
+      "brandId": "cmpis13brand001template",
+      "name": "3'lü Lüks Dantelli Banyo Paspas Takımı",
+      "slug": "3lu-luks-dantelli-banyo-paspas-takimi",
+      "description": "Kaymaz tabanlı, peluş dokulu ve dantel detaylı banyo halısı seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0034-A",
+          "color": "Krem / Beyaz",
+          "price": 2380.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0034-B",
+          "color": "Pudra / Gri",
+          "price": 2380.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/3lu-luks-dantelli-banyo-paspas-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/3lu-luks-dantelli-banyo-paspas-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "3lu"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0035r206x2new",
+      "categoryId": "cmpis13v1000br205j1r8rawk",
+      "brandId": "cmpis13brand001template",
+      "name": "6'lı Nakışlı Yüz ve El Havlusu Seti",
+      "slug": "6li-nakisli-yuz-ve-el-havlusu-seti",
+      "description": "%100 Pamuklu, kenarları çiçek nakışlı yumuşacık havlu seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0035-A",
+          "color": "Krem / Beyaz",
+          "price": 2425.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0035-B",
+          "color": "Pudra / Gri",
+          "price": 2425.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/6li-nakisli-yuz-ve-el-havlusu-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/6li-nakisli-yuz-ve-el-havlusu-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "6li"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0036r206x3new",
+      "categoryId": "cmpis13v1000br205j1r8rawk",
+      "brandId": "cmpis13brand001template",
+      "name": "Çeyizlik Lüks Jakarlı Hamam Seti",
+      "slug": "ceyizlik-luks-jakarli-hamam-seti",
+      "description": "Pestamal, havlu ve keseden oluşan nostaljik ve şık banyo seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0036-A",
+          "color": "Krem / Beyaz",
+          "price": 2470.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0036-B",
+          "color": "Pudra / Gri",
+          "price": 2470.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/ceyizlik-luks-jakarli-hamam-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/ceyizlik-luks-jakarli-hamam-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "ceyizlik"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0037r206x4new",
+      "categoryId": "cmpis13v1000br205j1r8rawk",
+      "brandId": "cmpis13brand001template",
+      "name": "Ayak Havlusu Kalın Buklet Dokuma",
+      "slug": "ayak-havlusu-kalin-buklet-dokuma",
+      "description": "Banyo çıkışları için ekstra kalın ve emici buklet ayak havlusu. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0037-A",
+          "color": "Krem / Beyaz",
+          "price": 2515.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0037-B",
+          "color": "Pudra / Gri",
+          "price": 2515.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/ayak-havlusu-kalin-buklet-dokuma-1.jpg",
+        "https://images.ceyizdiyari.com/mock/ayak-havlusu-kalin-buklet-dokuma-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "ayak"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0038r206x5new",
+      "categoryId": "cmpis13v1000br205j1r8rawk",
+      "brandId": "cmpis13brand001template",
+      "name": "Lüks Nakışlı 2'li Misafir Havlusu Takımı",
+      "slug": "luks-nakisli-2li-misafir-havlusu-takimi",
+      "description": "Misafir banyoları için özel kutulu, sim ve boncuk işlemeli şık havlular. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0038-A",
+          "color": "Krem / Beyaz",
+          "price": 2560.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0038-B",
+          "color": "Pudra / Gri",
+          "price": 2560.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/luks-nakisli-2li-misafir-havlusu-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/luks-nakisli-2li-misafir-havlusu-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "luks"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0039r206x6new",
+      "categoryId": "cmpis13v1000br205j1r8rawk",
+      "brandId": "cmpis13brand001template",
+      "name": "Kapüşonlu Çocuk Bornozu Pamuklu",
+      "slug": "kapusonlu-cocuk-bornozu-pamuklu",
+      "description": "Çocuk cilt sağlığına uygun, eğlenceli nakış figürlü kapüşonlu bornoz. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0039-A",
+          "color": "Krem / Beyaz",
+          "price": 2605.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0039-B",
+          "color": "Pudra / Gri",
+          "price": 2605.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/kapusonlu-cocuk-bornozu-pamuklu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/kapusonlu-cocuk-bornozu-pamuklu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "kapusonlu"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0040r206x7new",
+      "categoryId": "cmpis13v1000br205j1r8rawk",
+      "brandId": "cmpis13brand001template",
+      "name": "Mikrofiber Hızlı Kuruyan Saç Havlusu 3'lü",
+      "slug": "mikrofiber-hizli-kuruyan-sac-havlusu-3lu",
+      "description": "Düğmeli yapısı sayesinde başı tam saran, saç yıpratmayan pratik havlu. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0040-A",
+          "color": "Krem / Beyaz",
+          "price": 2650.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0040-B",
+          "color": "Pudra / Gri",
+          "price": 2650.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/mikrofiber-hizli-kuruyan-sac-havlusu-3lu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/mikrofiber-hizli-kuruyan-sac-havlusu-3lu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "mikrofiber"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0041r206x0new",
+      "categoryId": "cmpis13vn000cr205mvhti0zk",
+      "brandId": "cmpis13brand001template",
+      "name": "Dantelli 12 Kişilik Yemek Masası Örtüsü",
+      "slug": "dantelli-12-kisilik-yemek-masasi-ortusu",
+      "description": "Leke tutmaz dikişsiz kumaş üzerine fransız güpürlü şık örtü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0041-A",
+          "color": "Krem / Beyaz",
+          "price": 2695.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0041-B",
+          "color": "Pudra / Gri",
+          "price": 2695.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/dantelli-12-kisilik-yemek-masasi-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/dantelli-12-kisilik-yemek-masasi-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "dantelli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0042r206x1new",
+      "categoryId": "cmpis13vn000cr205mvhti0zk",
+      "brandId": "cmpis13brand001template",
+      "name": "Runnerlı Modern Masa Örtüsü Seti",
+      "slug": "runnerli-modern-masa-ortusu-seti",
+      "description": "Masanıza derinlik katacak kontrast renkli runner ve örtü kombinasyonu. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0042-A",
+          "color": "Krem / Beyaz",
+          "price": 2740.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0042-B",
+          "color": "Pudra / Gri",
+          "price": 2740.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/runnerli-modern-masa-ortusu-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/runnerli-modern-masa-ortusu-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "runnerli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0043r206x2new",
+      "categoryId": "cmpis13vn000cr205mvhti0zk",
+      "brandId": "cmpis13brand001template",
+      "name": "Keten Görünümlü Leke Tutmaz Masa Örtüsü",
+      "slug": "keten-gorunumlu-leke-tutmaz-masa-ortusu",
+      "description": "Günlük kullanıma uygun, kolayca temizlenebilen keten dokulu örtü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0043-A",
+          "color": "Krem / Beyaz",
+          "price": 2785.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0043-B",
+          "color": "Pudra / Gri",
+          "price": 2785.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/keten-gorunumlu-leke-tutmaz-masa-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/keten-gorunumlu-leke-tutmaz-masa-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "keten"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0044r206x3new",
+      "categoryId": "cmpis13vn000cr205mvhti0zk",
+      "brandId": "cmpis13brand001template",
+      "name": "Dikişli Dijital Baskılı Runner",
+      "slug": "dikisli-dijital-baskili-runner",
+      "description": "Yemek odası Konsolları ve masalar için canlı renklerde dekoratif runner. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0044-A",
+          "color": "Krem / Beyaz",
+          "price": 2830.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0044-B",
+          "color": "Pudra / Gri",
+          "price": 2830.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/dikisli-dijital-baskili-runner-1.jpg",
+        "https://images.ceyizdiyari.com/mock/dikisli-dijital-baskili-runner-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "dikisli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0045r206x4new",
+      "categoryId": "cmpis13vn000cr205mvhti0zk",
+      "brandId": "cmpis13brand001template",
+      "name": "Güveç ve Sunum İçin Amerikan Servis 6'lı",
+      "slug": "guvec-ve-sunum-i̇cin-amerikan-servis-6li",
+      "description": "Hasır örme şeklinde leke tutmaz şık masa sunum altlığı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0045-A",
+          "color": "Krem / Beyaz",
+          "price": 875.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0045-B",
+          "color": "Pudra / Gri",
+          "price": 875.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/guvec-ve-sunum-i̇cin-amerikan-servis-6li-1.jpg",
+        "https://images.ceyizdiyari.com/mock/guvec-ve-sunum-i̇cin-amerikan-servis-6li-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "guvec"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0046r206x5new",
+      "categoryId": "cmpis13vn000cr205mvhti0zk",
+      "brandId": "cmpis13brand001template",
+      "name": "Dantelli Kadife Salon Sehpa Takımı",
+      "slug": "dantelli-kadife-salon-sehpa-takimi",
+      "description": "Orta sehpa, zigon ve konsol için 3 parçalık güpürlü kadife örtü takımı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0046-A",
+          "color": "Krem / Beyaz",
+          "price": 920.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0046-B",
+          "color": "Pudra / Gri",
+          "price": 920.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/dantelli-kadife-salon-sehpa-takimi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/dantelli-kadife-salon-sehpa-takimi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "dantelli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0047r206x6new",
+      "categoryId": "cmpis13vn000cr205mvhti0zk",
+      "brandId": "cmpis13brand001template",
+      "name": "Muayyen Günler İçin Payetli Yemek Masası Örtüsü",
+      "slug": "muayyen-gunler-i̇cin-payetli-yemek-masasi-ortusu",
+      "description": "Yılbaşı ve özel davetler için kenarları payet işlemeli parıltılı lüks örtü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0047-A",
+          "color": "Krem / Beyaz",
+          "price": 965.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0047-B",
+          "color": "Pudra / Gri",
+          "price": 965.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/muayyen-gunler-i̇cin-payetli-yemek-masasi-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/muayyen-gunler-i̇cin-payetli-yemek-masasi-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "muayyen"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0048r206x7new",
+      "categoryId": "cmpis13vn000cr205mvhti0zk",
+      "brandId": "cmpis13brand001template",
+      "name": "Pötikare Desenli Bahçe Masa Örtüsü",
+      "slug": "potikare-desenli-bahce-masa-ortusu",
+      "description": "Balkon ve bahçe masaları için sıvı geçirmez, leke tutmaz pötikare örtü. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0048-A",
+          "color": "Krem / Beyaz",
+          "price": 1010.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0048-B",
+          "color": "Pudra / Gri",
+          "price": 1010.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/potikare-desenli-bahce-masa-ortusu-1.jpg",
+        "https://images.ceyizdiyari.com/mock/potikare-desenli-bahce-masa-ortusu-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "potikare"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0049r206x0new",
+      "categoryId": "cmpis13vp000dr2051vc1x0ra",
+      "brandId": "cmpis13brand001template",
+      "name": "Kabartma Desenli Çift Kişilik Peluş Battaniye",
+      "slug": "kabartma-desenli-cift-kisilik-pelus-battaniye",
+      "description": "Kış aylarında sıcacık tutacak, yumuşacık gofraj baskılı battaniye. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0049-A",
+          "color": "Krem / Beyaz",
+          "price": 1055.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0049-B",
+          "color": "Pudra / Gri",
+          "price": 1055.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/kabartma-desenli-cift-kisilik-pelus-battaniye-1.jpg",
+        "https://images.ceyizdiyari.com/mock/kabartma-desenli-cift-kisilik-pelus-battaniye-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "kabartma"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0050r206x1new",
+      "categoryId": "cmpis13vp000dr2051vc1x0ra",
+      "brandId": "cmpis13brand001template",
+      "name": "Emboss Lüks Çeyizlik Battaniye",
+      "slug": "emboss-luks-ceyizlik-battaniye",
+      "description": "Ağır ve parlak dokusuyla çeyizlerin vazgeçilmezi premium battaniye. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0050-A",
+          "color": "Krem / Beyaz",
+          "price": 1100.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0050-B",
+          "color": "Pudra / Gri",
+          "price": 1100.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/emboss-luks-ceyizlik-battaniye-1.jpg",
+        "https://images.ceyizdiyari.com/mock/emboss-luks-ceyizlik-battaniye-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "emboss"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0051r206x2new",
+      "categoryId": "cmpis13vp000dr2051vc1x0ra",
+      "brandId": "cmpis13brand001template",
+      "name": "Pamuklu Örgü Tv Battaniyesi (Throw)",
+      "slug": "pamuklu-orgu-tv-battaniyesi-throw",
+      "description": "Koltuk keyifleriniz için modern geometrik örgü desenli hafif battaniye. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0051-A",
+          "color": "Krem / Beyaz",
+          "price": 1145.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0051-B",
+          "color": "Pudra / Gri",
+          "price": 1145.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/pamuklu-orgu-tv-battaniyesi-throw-1.jpg",
+        "https://images.ceyizdiyari.com/mock/pamuklu-orgu-tv-battaniyesi-throw-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "pamuklu"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0052r206x3new",
+      "categoryId": "cmpis13vp000dr2051vc1x0ra",
+      "brandId": "cmpis13brand001template",
+      "name": "Tek Kişilik Polar Soft Battaniye",
+      "slug": "tek-kisilik-polar-soft-battaniye",
+      "description": "Hafif yapısıyla kolay taşınabilen ve sıcak tutan mikropolar battaniye. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0052-A",
+          "color": "Krem / Beyaz",
+          "price": 1190.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0052-B",
+          "color": "Pudra / Gri",
+          "price": 1190.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/tek-kisilik-polar-soft-battaniye-1.jpg",
+        "https://images.ceyizdiyari.com/mock/tek-kisilik-polar-soft-battaniye-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "tek"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0053r206x4new",
+      "categoryId": "cmpis13vp000dr2051vc1x0ra",
+      "brandId": "cmpis13brand001template",
+      "name": "Yün Karışımlı Premium Kışlık Battaniye",
+      "slug": "yun-karisimli-premium-kislik-battaniye",
+      "description": "Doğal yün lifleri içeren, maksimum ısı yalıtımı sağlayan kalın battaniye. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0053-A",
+          "color": "Krem / Beyaz",
+          "price": 1235.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0053-B",
+          "color": "Pudra / Gri",
+          "price": 1235.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/yun-karisimli-premium-kislik-battaniye-1.jpg",
+        "https://images.ceyizdiyari.com/mock/yun-karisimli-premium-kislik-battaniye-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "yun"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0054r206x5new",
+      "categoryId": "cmpis13vp000dr2051vc1x0ra",
+      "brandId": "cmpis13brand001template",
+      "name": "Çift Taraflı Welsoft Kuzulu Battaniye",
+      "slug": "cift-tarafli-welsoft-kuzulu-battaniye",
+      "description": "Bir yüzü welsoft kumaş, diğer yüzü kuzu postu dokulu ekstra sıcak tutan battaniye. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0054-A",
+          "color": "Krem / Beyaz",
+          "price": 1280.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0054-B",
+          "color": "Pudra / Gri",
+          "price": 1280.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/cift-tarafli-welsoft-kuzulu-battaniye-1.jpg",
+        "https://images.ceyizdiyari.com/mock/cift-tarafli-welsoft-kuzulu-battaniye-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "cift"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0055r206x6new",
+      "categoryId": "cmpis13vp000dr2051vc1x0ra",
+      "brandId": "cmpis13brand001template",
+      "name": "İspanyol Nakışlı Lüks Vizon Battaniye",
+      "slug": "i̇spanyol-nakisli-luks-vizon-battaniye",
+      "description": "Yüksek gramajlı, kadifemsi parlak yüzeye sahip orijinal İspanyol kalitesinde battaniye. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0055-A",
+          "color": "Krem / Beyaz",
+          "price": 1325.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0055-B",
+          "color": "Pudra / Gri",
+          "price": 1325.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/i̇spanyol-nakisli-luks-vizon-battaniye-1.jpg",
+        "https://images.ceyizdiyari.com/mock/i̇spanyol-nakisli-luks-vizon-battaniye-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "i̇spanyol"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0056r206x7new",
+      "categoryId": "cmpis13vp000dr2051vc1x0ra",
+      "brandId": "cmpis13brand001template",
+      "name": "Triko Örgü Bebek Battaniyesi Antialerjik",
+      "slug": "triko-orgu-bebek-battaniyesi-antialerjik",
+      "description": "Bebek arabası ve beşik kullanımına uygun, kaşındırmayan yumuşak triko battaniye. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0056-A",
+          "color": "Krem / Beyaz",
+          "price": 1370.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0056-B",
+          "color": "Pudra / Gri",
+          "price": 1370.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/triko-orgu-bebek-battaniyesi-antialerjik-1.jpg",
+        "https://images.ceyizdiyari.com/mock/triko-orgu-bebek-battaniyesi-antialerjik-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "triko"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0057r206x0new",
+      "categoryId": "cmpis13vr000er205hmuhsqc7",
+      "brandId": "cmpis13brand001template",
+      "name": "Sıvı Geçirmez Fitted Çift Kişilik Yatak Alezi",
+      "slug": "sivi-gecirmez-fitted-cift-kisilik-yatak-alezi",
+      "description": "Yatağınızı tam saran membran kaplamalı koruyucu alez. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0057-A",
+          "color": "Krem / Beyaz",
+          "price": 1415.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0057-B",
+          "color": "Pudra / Gri",
+          "price": 1415.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/sivi-gecirmez-fitted-cift-kisilik-yatak-alezi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/sivi-gecirmez-fitted-cift-kisilik-yatak-alezi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "sivi"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0058r206x1new",
+      "categoryId": "cmpis13vr000er205hmuhsqc7",
+      "brandId": "cmpis13brand001template",
+      "name": "Pamuk Kapitoneli Yastık Koruyucu Alez 2'li",
+      "slug": "pamuk-kapitoneli-yastik-koruyucu-alez-2li",
+      "description": "Fermuarlı yapısıyla yastıklarınızı kirden ve terden koruyan alez. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0058-A",
+          "color": "Krem / Beyaz",
+          "price": 1460.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0058-B",
+          "color": "Pudra / Gri",
+          "price": 1460.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/pamuk-kapitoneli-yastik-koruyucu-alez-2li-1.jpg",
+        "https://images.ceyizdiyari.com/mock/pamuk-kapitoneli-yastik-koruyucu-alez-2li-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "pamuk"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0059r206x2new",
+      "categoryId": "cmpis13vr000er205hmuhsqc7",
+      "brandId": "cmpis13brand001template",
+      "name": "Lastikli (Fitted) Penye Çift Kişilik Çarşaf",
+      "slug": "lastikli-fitted-penye-cift-kisilik-carsaf",
+      "description": "%100 Pamuk penye kumaştan, kayma yapmayan lastikli çarşaf. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0059-A",
+          "color": "Krem / Beyaz",
+          "price": 1505.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0059-B",
+          "color": "Pudra / Gri",
+          "price": 1505.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/lastikli-fitted-penye-cift-kisilik-carsaf-1.jpg",
+        "https://images.ceyizdiyari.com/mock/lastikli-fitted-penye-cift-kisilik-carsaf-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "lastikli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0060r206x3new",
+      "categoryId": "cmpis13vr000er205hmuhsqc7",
+      "brandId": "cmpis13brand001template",
+      "name": "Saten Dokuma Düz Çarşaf ve Yastık Kılıfı Seti",
+      "slug": "saten-dokuma-duz-carsaf-ve-yastik-kilifi-seti",
+      "description": "Yüksek kaliteli iplikten pürüzsüz parlaklık sunan düz çarşaf. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0060-A",
+          "color": "Krem / Beyaz",
+          "price": 1550.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0060-B",
+          "color": "Pudra / Gri",
+          "price": 1550.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/saten-dokuma-duz-carsaf-ve-yastik-kilifi-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/saten-dokuma-duz-carsaf-ve-yastik-kilifi-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "saten"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0061r206x4new",
+      "categoryId": "cmpis13vr000er205hmuhsqc7",
+      "brandId": "cmpis13brand001template",
+      "name": "Tek Kişilik Sıvı Geçirmez Lastikli Çocuk Alezi",
+      "slug": "tek-kisilik-sivi-gecirmez-lastikli-cocuk-alezi",
+      "description": "Çocuk ve bebek yatakları için hışırtı yapmayan özel koruyucu. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0061-A",
+          "color": "Krem / Beyaz",
+          "price": 1595.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0061-B",
+          "color": "Pudra / Gri",
+          "price": 1595.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/tek-kisilik-sivi-gecirmez-lastikli-cocuk-alezi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/tek-kisilik-sivi-gecirmez-lastikli-cocuk-alezi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "tek"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0062r206x5new",
+      "categoryId": "cmpis13vr000er205hmuhsqc7",
+      "brandId": "cmpis13brand001template",
+      "name": "Bambu Elyaf Dolgulu Lüks Yatak Alezi",
+      "slug": "bambu-elyaf-dolgulu-luks-yatak-alezi",
+      "description": "Tamamen doğal bambu elyaf dolgusuyla terletme önleyici premium fitted alez. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0062-A",
+          "color": "Krem / Beyaz",
+          "price": 1640.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0062-B",
+          "color": "Pudra / Gri",
+          "price": 1640.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/bambu-elyaf-dolgulu-luks-yatak-alezi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/bambu-elyaf-dolgulu-luks-yatak-alezi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "bambu"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0063r206x6new",
+      "categoryId": "cmpis13vr000er205hmuhsqc7",
+      "brandId": "cmpis13brand001template",
+      "name": "2'li Saten Yastık Kılıfı Uyku Seti",
+      "slug": "2li-saten-yastik-kilifi-uyku-seti",
+      "description": "Cilt ve saç kırışıklıklarını önleyen pürüzsüz saten kumaş lüks kılıf seti. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0063-A",
+          "color": "Krem / Beyaz",
+          "price": 1685.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0063-B",
+          "color": "Pudra / Gri",
+          "price": 1685.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/2li-saten-yastik-kilifi-uyku-seti-1.jpg",
+        "https://images.ceyizdiyari.com/mock/2li-saten-yastik-kilifi-uyku-seti-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "2li"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0064r206x7new",
+      "categoryId": "cmpis13vr000er205hmuhsqc7",
+      "brandId": "cmpis13brand001template",
+      "name": "Battal Boy (King Size) Pamuk Lastikli Çarşaf",
+      "slug": "battal-boy-king-size-pamuk-lastikli-carsaf",
+      "description": "Büyük yatak ölçüleri için özel üretilmiş yüksek kenarlı penye çarşaf. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0064-A",
+          "color": "Krem / Beyaz",
+          "price": 1730.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0064-B",
+          "color": "Pudra / Gri",
+          "price": 1730.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/battal-boy-king-size-pamuk-lastikli-carsaf-1.jpg",
+        "https://images.ceyizdiyari.com/mock/battal-boy-king-size-pamuk-lastikli-carsaf-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "battal"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0065r206x0new",
+      "categoryId": "cmpis13vt000fr205cxu9sc95",
+      "brandId": "cmpis13brand001template",
+      "name": "Kaymaz Taban Modern Salon Halısı 4m2",
+      "slug": "kaymaz-taban-modern-salon-halisi-4m2",
+      "description": "Kolay temizlenebilen, leke tutmaz dijital baskılı şık salon halısı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0065-A",
+          "color": "Krem / Beyaz",
+          "price": 1775.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0065-B",
+          "color": "Pudra / Gri",
+          "price": 1775.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/kaymaz-taban-modern-salon-halisi-4m2-1.jpg",
+        "https://images.ceyizdiyari.com/mock/kaymaz-taban-modern-salon-halisi-4m2-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "kaymaz"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0066r206x1new",
+      "categoryId": "cmpis13vt000fr205cxu9sc95",
+      "brandId": "cmpis13brand001template",
+      "name": "Peluş Post Oval Yatak Odası Halısı",
+      "slug": "pelus-post-oval-yatak-odasi-halisi",
+      "description": "Yumuşacık dokusuyla ayak altı konforu sağlayan yapay kürk halı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0066-A",
+          "color": "Krem / Beyaz",
+          "price": 1820.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0066-B",
+          "color": "Pudra / Gri",
+          "price": 1820.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/pelus-post-oval-yatak-odasi-halisi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/pelus-post-oval-yatak-odasi-halisi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "pelus"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0067r206x2new",
+      "categoryId": "cmpis13vt000fr205cxu9sc95",
+      "brandId": "cmpis13brand001template",
+      "name": "Yıkanabilir İskandinav Tarz Mutfak Halısı",
+      "slug": "yikanabilir-i̇skandinav-tarz-mutfak-halisi",
+      "description": "Çamaşır makinesinde yıkanabilen ince tabanlı geometrik yolluk. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0067-A",
+          "color": "Krem / Beyaz",
+          "price": 1865.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0067-B",
+          "color": "Pudra / Gri",
+          "price": 1865.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/yikanabilir-i̇skandinav-tarz-mutfak-halisi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/yikanabilir-i̇skandinav-tarz-mutfak-halisi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "yikanabilir"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0068r206x3new",
+      "categoryId": "cmpis13vt000fr205cxu9sc95",
+      "brandId": "cmpis13brand001template",
+      "name": "Kabartmalı Premium Dokuma Halı",
+      "slug": "kabartmali-premium-dokuma-hali",
+      "description": "Akrilik iplikle dokunmuş, kendinden çökmeli ve kabartmalı lüks halı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0068-A",
+          "color": "Krem / Beyaz",
+          "price": 1910.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0068-B",
+          "color": "Pudra / Gri",
+          "price": 1910.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/kabartmali-premium-dokuma-hali-1.jpg",
+        "https://images.ceyizdiyari.com/mock/kabartmali-premium-dokuma-hali-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "kabartmali"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0069r206x4new",
+      "categoryId": "cmpis13vt000fr205cxu9sc95",
+      "brandId": "cmpis13brand001template",
+      "name": "Jüt Örme Yuvarlak Rustik Halı",
+      "slug": "jut-orme-yuvarlak-rustik-hali",
+      "description": "Doğal jüt iplerinden el yapımı, bohem ve rustik dekorasyon halısı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0069-A",
+          "color": "Krem / Beyaz",
+          "price": 1955.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0069-B",
+          "color": "Pudra / Gri",
+          "price": 1955.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/jut-orme-yuvarlak-rustik-hali-1.jpg",
+        "https://images.ceyizdiyari.com/mock/jut-orme-yuvarlak-rustik-hali-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "jut"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0070r206x5new",
+      "categoryId": "cmpis13vt000fr205cxu9sc95",
+      "brandId": "cmpis13brand001template",
+      "name": "Eskitme Klasik Vintage Salon Halısı",
+      "slug": "eskitme-klasik-vintage-salon-halisi",
+      "description": "Lazer kesim, eskitme desenli, geleneksel ile moderni birleştiren şık halı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0070-A",
+          "color": "Krem / Beyaz",
+          "price": 2000.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0070-B",
+          "color": "Pudra / Gri",
+          "price": 2000.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/eskitme-klasik-vintage-salon-halisi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/eskitme-klasik-vintage-salon-halisi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "eskitme"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0071r206x6new",
+      "categoryId": "cmpis13vt000fr205cxu9sc95",
+      "brandId": "cmpis13brand001template",
+      "name": "Saçaklı Dokuma Çocuk Odası Halısı",
+      "slug": "sacakli-dokuma-cocuk-odasi-halisi",
+      "description": "Pamuk tabanlı, çocuk odalarına uygun antibakteriyel ve eğlenceli desenli halı. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0071-A",
+          "color": "Krem / Beyaz",
+          "price": 2045.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0071-B",
+          "color": "Pudra / Gri",
+          "price": 2045.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/sacakli-dokuma-cocuk-odasi-halisi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/sacakli-dokuma-cocuk-odasi-halisi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "sacakli"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0072r206x7new",
+      "categoryId": "cmpis13vt000fr205cxu9sc95",
+      "brandId": "cmpis13brand001template",
+      "name": "Deri Tabanlı Antre Yolluğu Leke Tutmaz",
+      "slug": "deri-tabanli-antre-yollugu-leke-tutmaz",
+      "description": "Yoğun trafiğe uygun, altı suni deri kaplama kaymaz koridor yolluğu. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0072-A",
+          "color": "Krem / Beyaz",
+          "price": 2090.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0072-B",
+          "color": "Pudra / Gri",
+          "price": 2090.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/deri-tabanli-antre-yollugu-leke-tutmaz-1.jpg",
+        "https://images.ceyizdiyari.com/mock/deri-tabanli-antre-yollugu-leke-tutmaz-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "deri"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0073r206x0new",
+      "categoryId": "cmpis13vv000gr205ei34fzs2",
+      "brandId": "cmpis13brand001template",
+      "name": "Silikon Dolgulu Antialerjik Mikrofiber Yastık",
+      "slug": "silikon-dolgulu-antialerjik-mikrofiber-yastik",
+      "description": "Boyun destekli, çökme yapmayan birinci sınıf boncuk silikon yastık. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0073-A",
+          "color": "Krem / Beyaz",
+          "price": 2135.0,
+          "stock": 20
+        },
+        {
+          "sku": "SKU-0073-B",
+          "color": "Pudra / Gri",
+          "price": 2135.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/silikon-dolgulu-antialerjik-mikrofiber-yastik-1.jpg",
+        "https://images.ceyizdiyari.com/mock/silikon-dolgulu-antialerjik-mikrofiber-yastik-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "silikon"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0074r206x1new",
+      "categoryId": "cmpis13vv000gr205ei34fzs2",
+      "brandId": "cmpis13brand001template",
+      "name": "Çift Kişilik Çift Katlı Kışlık Yorgan",
+      "slug": "cift-kisilik-cift-katli-kislik-yorgan",
+      "description": "Yüksek ısı tutma kapasiteli silikonize elyaf dolgulu kalın yorgan. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0074-A",
+          "color": "Krem / Beyaz",
+          "price": 2180.0,
+          "stock": 21
+        },
+        {
+          "sku": "SKU-0074-B",
+          "color": "Pudra / Gri",
+          "price": 2180.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/cift-kisilik-cift-katli-kislik-yorgan-1.jpg",
+        "https://images.ceyizdiyari.com/mock/cift-kisilik-cift-katli-kislik-yorgan-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "cift"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0075r206x2new",
+      "categoryId": "cmpis13vv000gr205ei34fzs2",
+      "brandId": "cmpis13brand001template",
+      "name": "Kaz Tüyü Premium Lüks Yastık",
+      "slug": "kaz-tuyu-premium-luks-yastik",
+      "description": "Doğal kaz tüyü dolgusuyla otel konforunu evinize getiren yastık. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0075-A",
+          "color": "Krem / Beyaz",
+          "price": 2225.0,
+          "stock": 22
+        },
+        {
+          "sku": "SKU-0075-B",
+          "color": "Pudra / Gri",
+          "price": 2225.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/kaz-tuyu-premium-luks-yastik-1.jpg",
+        "https://images.ceyizdiyari.com/mock/kaz-tuyu-premium-luks-yastik-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "kaz"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0076r206x3new",
+      "categoryId": "cmpis13vv000gr205ei34fzs2",
+      "brandId": "cmpis13brand001template",
+      "name": "Bambu Tek Kişilik Doğal Yorgan",
+      "slug": "bambu-tek-kisilik-dogal-yorgan",
+      "description": "Terletme yapmayan, nefes alan bambu lifli hafif yazlık/baharlık yorgan. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0076-A",
+          "color": "Krem / Beyaz",
+          "price": 2270.0,
+          "stock": 23
+        },
+        {
+          "sku": "SKU-0076-B",
+          "color": "Pudra / Gri",
+          "price": 2270.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/bambu-tek-kisilik-dogal-yorgan-1.jpg",
+        "https://images.ceyizdiyari.com/mock/bambu-tek-kisilik-dogal-yorgan-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "bambu"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0077r206x4new",
+      "categoryId": "cmpis13vv000gr205ei34fzs2",
+      "brandId": "cmpis13brand001template",
+      "name": "Ortopedik Visco Hafızalı Boyun Yastığı",
+      "slug": "ortopedik-visco-hafizali-boyun-yastigi",
+      "description": "Yatış pozisyonuna göre şekil alan, ağrı giderici visco sünger yastık. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0077-A",
+          "color": "Krem / Beyaz",
+          "price": 2315.0,
+          "stock": 24
+        },
+        {
+          "sku": "SKU-0077-B",
+          "color": "Pudra / Gri",
+          "price": 2315.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/ortopedik-visco-hafizali-boyun-yastigi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/ortopedik-visco-hafizali-boyun-yastigi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "ortopedik"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0078r206x5new",
+      "categoryId": "cmpis13vv000gr205ei34fzs2",
+      "brandId": "cmpis13brand001template",
+      "name": "Jel Dolgulu Serinletici Yazlık Visco Yastık",
+      "slug": "jel-dolgulu-serinletici-yazlik-visco-yastik",
+      "description": "Yüzeyindeki özel jel tabaka sayesinde yaz gecelerinde başı serin tutan akıllı yastık. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": true,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0078-A",
+          "color": "Krem / Beyaz",
+          "price": 2360.0,
+          "stock": 25
+        },
+        {
+          "sku": "SKU-0078-B",
+          "color": "Pudra / Gri",
+          "price": 2360.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/jel-dolgulu-serinletici-yazlik-visco-yastik-1.jpg",
+        "https://images.ceyizdiyari.com/mock/jel-dolgulu-serinletici-yazlik-visco-yastik-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "jel"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0079r206x6new",
+      "categoryId": "cmpis13vv000gr205ei34fzs2",
+      "brandId": "cmpis13brand001template",
+      "name": "Deve Yünü Çift Kişilik Sağlık Yorganı",
+      "slug": "deve-yunu-cift-kisilik-saglik-yorgani",
+      "description": "Doğal deve yünü dolgusuyla romatizmal ağrılara iyi gelen özel kışlık yorgan. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0079-A",
+          "color": "Krem / Beyaz",
+          "price": 2405.0,
+          "stock": 26
+        },
+        {
+          "sku": "SKU-0079-B",
+          "color": "Pudra / Gri",
+          "price": 2405.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/deve-yunu-cift-kisilik-saglik-yorgani-1.jpg",
+        "https://images.ceyizdiyari.com/mock/deve-yunu-cift-kisilik-saglik-yorgani-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "deve"
+      ],
+      "reviews": []
+    },
+    {
+      "id": "cmpis13prod0080r206x7new",
+      "categoryId": "cmpis13vv000gr205ei34fzs2",
+      "brandId": "cmpis13brand001template",
+      "name": "Lavanta Esanslı Rahat Uyku Yastığı",
+      "slug": "lavanta-esansli-rahat-uyku-yastigi",
+      "description": "Mikrokapsül teknolojisi ile içine lavanta kokusu hapsedilmiş sakinleştirici yastık. Çeyiz Diyarı standartlarında üretilmiş olup, uzun ömürlü kullanım sunar.",
+      "isActive": true,
+      "isFeatured": false,
+      "createdAt": "2026-05-23T22:00:00.000Z",
+      "updatedAt": "2026-05-23T22:15:00.000Z",
+      "category": {},
+      "brand": {},
+      "variants": [
+        {
+          "sku": "SKU-0080-A",
+          "color": "Krem / Beyaz",
+          "price": 2450.0,
+          "stock": 27
+        },
+        {
+          "sku": "SKU-0080-B",
+          "color": "Pudra / Gri",
+          "price": 2450.0,
+          "stock": 12
+        }
+      ],
+      "images": [
+        "https://images.ceyizdiyari.com/mock/lavanta-esansli-rahat-uyku-yastigi-1.jpg",
+        "https://images.ceyizdiyari.com/mock/lavanta-esansli-rahat-uyku-yastigi-2.jpg"
+      ],
+      "tags": [
+        "ceyiz",
+        "ev-tekstili",
+        "lavanta"
+      ],
+      "reviews": []
+    }
+  ]
+}

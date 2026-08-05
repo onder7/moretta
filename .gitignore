@@ -1,0 +1,88 @@
+# Ortam değişkenleri — hiçbir zaman commit etme
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build çıktıları
+dist/
+build/
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Docker volumes (lokal)
+postgres_data/
+redis_data/
+
+# SSL sertifikaları ve nginx geçici dosyaları (sunucudan alınır, repoya girmez)
+nginx/ssl/
+nginx/conf.d/*.bak
+nginx/conf.d/*.ssl.bak
+
+# Prisma migrations (geliştirme sırasında geçici)
+# backend/prisma/migrations/ — bu satırı açma, migrationları commit et
+
+# Test coverage
+coverage/
+
+# Yüklenen görseller — üretim ortamında CDN/Cloudinary kullanılacak
+backend/uploads/
+
+# Geçici dosyalar
+tmp/
+query
+
+# Veritabanı yedekleri — müşteri verisi içerir, asla commit etme
+backend/backups/backup-*.sql
+*.tar.gz
+
+# Sunucuda deploy.sh tarafından üretilenler (SSL sertifikaları, compose override)
+certbot/
+docker-compose.override.yml
+nginx/conf.d/default.conf
+
+# İndirilmiş şablon / tasarım dosyaları
+ecommerce-frontend-master/
+*.png
+!frontend/public/*.png
+!frontend/public/*.jpg
+!frontend/public/*.svg
+!frontend/src/**/*.png
+!frontend/src/**/*.svg
+
+# --- Yedek dosyalar (sir icerebilir) - ASLA commit etme ---
+*.bak
+.env.bak*
+.env.*.bak
+docker-compose.yml.bak
+
+# Frontend build ciktisi (kaynak degil)
+frontend/assets/

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Dizin edilmemesi gereken sayfalar
+Disallow: /odeme
+Disallow: /hesabim/
+Disallow: /sepet
+Disallow: /api/
+Disallow: /giris
+Disallow: /kayit
+
+# Sitemap
+Sitemap: https://www.mabridgeglobal.com/sitemap.xml

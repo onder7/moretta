@@ -1,0 +1,39 @@
+name: Deploy to Production
+
+# master'a her push'ta veya elle (Actions → Run workflow) çalışır.
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+concurrency:
+  group: production-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sunucuya SSH ile deploy (kaynak güncelle + rebuild)
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          # SSH key önerilir: password yerine "key: ${{ secrets.SERVER_SSH_KEY }}"
+          password: ${{ secrets.SERVER_PASSWORD }}
+          script: |
+            set -e
+            APP_DIR=/home/onder/management/stacks/nefesol-shop
+            cd "$APP_DIR"
+
+            # En güncel kodu çek — AMA yalnızca uygulama kaynağını güncelle.
+            # docker-compose.yml (web_proxy ağı, port yok), .env (DB şifresi) ve
+            # nginx/ config'i SUNUCUYA AİT kalır; bu yüzden dokunulmaz.
+            git fetch origin master
+            git checkout origin/master -- frontend backend admin docker
+
+            # Mevcut (özelleştirilmiş) compose + .env ile yeniden build et ve başlat
+            docker compose up -d --build
+            docker image prune -f
+
+            echo "✓ Deploy tamamlandı (compose/.env/nginx korundu)."

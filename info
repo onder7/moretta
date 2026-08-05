@@ -1,0 +1,19 @@
+kaynak proje https://github.com/onder7/Nefesol_Shop
+
+proje github sayfası https://github.com/onder7/moretta
+
+
+31.7.33.14 
+user: onder 
+pass: T3kn3t12! 
+
+http://31.7.33.14:81/nginx/proxy
+
+Backend: cd backend → npm run dev (port 5010)
+Frontend: cd frontend → npm run dev (port 3000)
+
+
+Email: admin@moretta.dev
+Şifre: Admin123!
+
+test@moretta.dev / Test123!
