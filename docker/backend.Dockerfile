@@ -43,6 +43,7 @@ COPY --from=builder /app/src/data ./dist/data
 COPY import-backup.js ./
 COPY create-admin.js ./
 COPY import-variants.js ./
+COPY ceyiz_diyari_mock_db-v2.json ./
 
 EXPOSE 5000
 
