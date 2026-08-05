@@ -30,7 +30,7 @@ export function ProductFinder() {
   const [selectedCategory, setSelectedCategory] = useState<string | undefined>();
   const [attrStep, setAttrStep] = useState(0);
   const [answers, setAnswers] = useState<Record<string, string>>({});
-  const prevAttrKey = useRef<string | undefined>();
+  const prevAttrKey = useRef<string | undefined>(undefined);
   const navigate = useNavigate();
 
   const { data: catData, isLoading: catLoading } = useQuery({
@@ -42,12 +42,7 @@ export function ProductFinder() {
 
   const { data: filterData, isLoading: filterLoading } = useQuery({
     queryKey: ['filter-options', selectedCategory],
-    queryFn: async () => {
-      if (selectedCategory) {
-        return await productApi.filterOptions(selectedCategory);
-      }
-      return { data: { data: { attributes: [], brands: [], priceRange: { min: 0, max: 0 } } } };
-    },
+    queryFn: () => productApi.filterOptions(selectedCategory),
     enabled: !!selectedCategory,
     staleTime: 1000 * 60 * 10,
   });
