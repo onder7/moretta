@@ -11,6 +11,7 @@
     "prisma:generate": "prisma generate",
     "prisma:seed": "ts-node src/utils/seed.ts",
     "prisma:seed-design": "ts-node src/utils/seed-design-products.ts",
+    "prisma:seed-coffee": "ts-node src/utils/seed-coffee-products.ts",
     "prisma:reset-design": "ts-node src/utils/reset-to-design.ts",
     "prisma:studio": "prisma studio"
   },
