@@ -3,6 +3,8 @@ name: mabridgeglobal_shop
 services:
   nginx:
     image: nginx:alpine
+    ports:
+      - "81:80"
     volumes:
       - ./nginx/conf.d:/etc/nginx/conf.d:ro
     depends_on:
