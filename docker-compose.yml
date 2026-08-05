@@ -4,9 +4,12 @@ services:
   nginx:
     image: nginx:alpine
     ports:
-      - "8082:80"
+      - "80:80"
+      - "443:443"
     volumes:
       - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./letsencrypt:/etc/letsencrypt:ro
+      - ./certbot-webroot:/var/www/certbot:ro
     depends_on:
       - frontend
       - admin
