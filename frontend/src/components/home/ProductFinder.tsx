@@ -45,7 +45,7 @@ export function ProductFinder() {
     queryFn: async () => {
       return selectedCategory 
         ? await productApi.filterOptions(selectedCategory)
-        : { data: { data: { attributes: [], brands: [], priceRange: { min: 0, max: 0 } } } };
+        : await productApi.filterOptions('');
     },
     enabled: !!selectedCategory,
     staleTime: 1000 * 60 * 10,
